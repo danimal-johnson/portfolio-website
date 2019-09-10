@@ -2885,6 +2885,13 @@ input, select, textarea {
 			display: inline-block;
 			padding: 0 0.75rem 0 0;
 		}
+			ul.icons li a.fa-twitter,
+			ul.icons li a.fa-facebook-f,
+			ul.icons li a.fa-instagram,
+			ul.icons li a.fa-envelope
+			{
+				display: none;
+			}
 
 			ul.icons li:last-child {
 				padding-right: 0;
